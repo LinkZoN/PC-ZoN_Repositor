@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="DayStart">Day Start</string>
+    <string name="DayEnd">Day End</string>
+    <string name="PauseStart">Pause Start</string>
+    <string name="PauseEnd">Pause End</string>
+    
+    
+    <string name="Time_Default">--:--</string>
+    <string name="Category_Default">Normal Day</string>
+    
+    <string name="SaveOk">Timesheet Saved</string>
+    <string name="SaveKo">Timesheet NOT Saved!</string>
+    
+
+</resources>
